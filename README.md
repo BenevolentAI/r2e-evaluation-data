@@ -1,6 +1,6 @@
 # Retrieve to Explain (R2E) Evaluation Data
 
-This repository contains the three performance evaluation datasets associated with our paper: *Retrieve to Explain: Evidence-driven Predictions with Language Models*.
+This repository contains the three performance evaluation datasets associated with our paper: [*Retrieve to Explain: Evidence-driven Predictions with Language Models*](https://arxiv.org/abs/2402.04068).
 
 Authors: Ravi Patel, Angus Brayne, Rogier Hintzen, Daniel Jaroslawicz, Georgiana Neculae, Dane Corneil
 
